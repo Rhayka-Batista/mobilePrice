@@ -20,6 +20,6 @@ pip install requirements.txt
 ```
 4. Abra a pasta no editor de códigos ( recomendação: Colab da Google ).
 5. Caso escolha o Colab, execute os seguintes passos:
-6. abra o Colab, e faça upload do arquivo Mobile.ipynb.
+6. Abra o Colab, e faça upload do arquivo Mobile.ipynb.
 7. Posteriormente na canto superior esquerdo na pasta de arquivo cole o arquivo train.csv.
 8. Em seguida execute o código.
