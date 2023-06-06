@@ -12,7 +12,7 @@ com precisão a faixa de preço de um telefone com base em suas características
 ## Configuração
 
 1. Baixe o arquivo compactado em sua maquina.
-2. Instale as dependências necessárias que estão localizadas no requirements.txt.
+2. Instale as dependências necessárias que se encontra no arquivo compactado.
 3. No prompt de comando, aplique este comando:
 
 ```
